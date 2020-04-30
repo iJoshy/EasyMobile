@@ -1,0 +1,52 @@
+PODS:
+  - Google/Analytics (1.3.2):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (1.3.2):
+    - GoogleInterchangeUtilities (~> 1.0)
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.1)
+  - GoogleAnalytics (3.14.0)
+  - GoogleInterchangeUtilities (1.1.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleNetworkingUtilities (1.0.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - googleplus-ios-sdk (1.7.1)
+  - GoogleSymbolUtilities (1.0.3)
+  - GoogleUtilities (1.1.0):
+    - GoogleSymbolUtilities (~> 1.0.0)
+  - OneSignal (1.11.0)
+  - PNChart (0.8.8):
+    - UICountingLabel (~> 1.2.0)
+  - UICountingLabel (1.2.0)
+  - ZDCChat (1.1.3):
+    - ZDCChat/Core (= 1.1.3)
+    - ZDCChat/Localization (= 1.1.3)
+  - ZDCChat/Core (1.1.3)
+  - ZDCChat/Localization (1.1.3):
+    - ZDCChat/Core
+
+DEPENDENCIES:
+  - Google/Analytics
+  - googleplus-ios-sdk
+  - OneSignal
+  - PNChart
+  - ZDCChat
+
+SPEC CHECKSUMS:
+  Google: 97618e118111b998cce1d8dd1bd98b82301d72db
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  GoogleInterchangeUtilities: d7f7174176fbcf9710f696f1acebad4dbd98ac03
+  GoogleNetworkingUtilities: 292992ab31b7b4ba32809a0e8b40e324cdfb2c0c
+  googleplus-ios-sdk: 065d9135061a5f84c07656a68ced48336408fe35
+  GoogleSymbolUtilities: 82ad9f93d3615244b3f4ce440f5ab2515e8b4f56
+  GoogleUtilities: 8ed9134debe11719097881711464752900668f10
+  OneSignal: 85d4e842b26d1a6492efa9c3ecf3b38151339f8e
+  PNChart: 25f91e9c4688af49c3647489760624d037f5383f
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+  ZDCChat: 37b60b16389e0c5e59384db41aa841d8852ec820
+
+PODFILE CHECKSUM: 57993152b416671470188ef46d312499a0afd3ae
+
+COCOAPODS: 1.0.0.beta.4
